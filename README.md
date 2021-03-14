@@ -4,7 +4,12 @@
 </div>
 
 ![](Images/Header.png)
-
+# Modified in fork
+* Removed windows version, keep only one-line version
+* moved taskbar and tabs to bottom
+* removed items from right-click-menu
+* dark mode for right click-menu
+* added back the line to indicate current tab
 ## Index
 
 -   [SimplerentFox](#)
