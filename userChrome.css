@@ -45,7 +45,8 @@ Here you can change the opacity level and the main color of the browser. Also th
 */
 
 :root {
-	--srf-color-primary: rgba(20, 20, 20, 0.6);
+	/*--srf-color-primary: rgba(20, 20, 20, 0.6);*/
+	--srf-color-primary: rgba(42, 42, 42, 0.6);
 	--srf-color-selection: #66a6d9;
 }
 
@@ -126,8 +127,8 @@ T A B S
 }
 
 .tab-line {
-	/*background-color:  #7d0633 !important;*/
-	background-color:  #ec4646 !important;
+	background-color: #ebdbb2 !important;
+        height: 1px !important;
 }
 
 .tabbrowser-arrowscrollbox {
